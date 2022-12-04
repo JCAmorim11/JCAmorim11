@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcamorim11&label=Profile%20views&color=0e75b6&style=flat" alt="jcamorim11" /> </p>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on Java Development
 
 - 🌱 I’m currently learning **Angular, Java, Spring boot, CSS**
 
-- 👯 I’m looking to collaborate on **anything please send help**
+- 👯 I’m looking to collaborate on **anything that seems fun**
 
 - 🤝 I’m looking for help with **everything**
 <img align="right" width="400" src="https://i.pinimg.com/originals/cc/b5/15/ccb515dc455268e3480a8df202f49d8a.gif">
